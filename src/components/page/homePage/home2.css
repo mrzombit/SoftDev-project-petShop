@@ -1,0 +1,24 @@
+html,body{
+  margin: 0;
+  }
+
+  @font-face {
+    font-family: 'Kanit';
+    src: url('../../../fonts/Kanit-Regular.ttf');
+    font-style: normal;
+    font-weight: 400;
+  }
+
+  #Bnavbar-bg {
+    font-family: 'Kanit';
+    background: linear-gradient(0deg, #00AFB9, #00AFB9), #0081A7;
+    box-shadow: 0px 2px 4px rgba(0, 129, 167, 0.25);
+    height: 79px;
+    color: white;
+  }
+
+/*------------------------------------------------- N A V B A R -----------------------------------------------*/
+
+  .menu {
+    font-family: 'Kanit';
+  }
